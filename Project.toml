@@ -1,0 +1,4 @@
+name = "ComputationalSpaceflightMechanics2021"
+uuid = "f8ae8ff7-53be-407e-a97a-cb7b946fe69a"
+authors = ["Helge Eichhorn <git@helgeeichhorn.de>"]
+version = "0.1.0"
